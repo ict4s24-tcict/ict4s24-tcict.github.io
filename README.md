@@ -1,4 +1,12 @@
 
+<!-- menu is defined in _data/navigation.yml -->
 {% include navigation.html %}
 
-# ict4s24-tcict.github.io
+
+# Workshop Theme and Scope
+
+
+# Call for Contributions
+
+
+
