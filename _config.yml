@@ -1,0 +1,15 @@
+
+title: xx
+
+description: xx
+
+navbar-links:
+  Workshop Description: "index.html"
+  Call for Contributions: "index.html"
+  Organisers: "index.html"
+
+author:
+  name: Jan Tobias Muehlberg
+
+theme: jekyll-theme-slate
+
