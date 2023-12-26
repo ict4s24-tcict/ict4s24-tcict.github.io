@@ -19,7 +19,8 @@
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
-        zz
+        <!-- menu is defined in _data/navigation.yml -->
+        {% include navigation.html %}
 
         <ul>
           {% if site.show_downloads %}
@@ -29,13 +30,9 @@
           <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
         </ul>
 
-        xx
-
         {% if site.github.is_project_page %}
           <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-
-        yy
 
         {% if site.github.is_user_page %}
           <ul>

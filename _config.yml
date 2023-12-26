@@ -5,15 +5,11 @@ description: "A workshop at ICT4S 2024."
 show_downloads: false
 google_analytics:
 
-navbar-links:
-  Workshop Description: "index.html"
-  Call for Contributions: "index.html"
-  Organisers: "index.html"
-
 author:
   name: Jan Tobias Muehlberg
 
-# theme: jekyll-theme-slate
+
+# Dinky Theme: https://github.com/pages-themes/dinky
 remote_theme: pages-themes/dinky@v0.2.0
 
 plugins:
