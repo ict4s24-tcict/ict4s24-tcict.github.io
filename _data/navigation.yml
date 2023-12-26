@@ -2,13 +2,28 @@
 - title: Home
   url: /
 
-- title: Group of Things
-  url: /group/
-  sublinks:
-    - title: Sub-item 1
-      url: /group/si1
-    - title: Sub-item 2
-      url: /group/si2
-    - title: Sub-item 3
-      url: /group/si3
+- title: Theme and Scope
+  url: /
+
+- title: Call for Contributions
+  url: /
+
+- title: Participate
+  url: /
+
+
+
+
+# Groups currently don't look good in Dinky. Needs a better style
+# definition.
+#
+#- title: Group of Things
+#  url: /group/
+#  sublinks:
+#    - title: Sub-item 1
+#      url: /group/si1
+#    - title: Sub-item 2
+#      url: /group/si2
+#    - title: Sub-item 3
+#      url: /group/si3
 
