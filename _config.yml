@@ -1,6 +1,6 @@
 
 title: "The True Cost of ICT: From Materiality to Techno-Solutionism"
-description: "A workshop at [ICT4s 2024](https://conf.researchr.org/home/ict4s-2024)."
+description: "A workshop at ICT4S 2024."
 
 navbar-links:
   Workshop Description: "index.html"
@@ -10,5 +10,9 @@ navbar-links:
 author:
   name: Jan Tobias Muehlberg
 
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+remote_theme: pages-themes/dinky@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
 
