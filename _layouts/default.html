@@ -44,19 +44,27 @@
 
       <section>
 {% if page.bigimg %}
-  <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
-    {% for bigimg in page.bigimg %}
-          {% assign imgnum = forloop.index %}
-          {% for imginfo in bigimg %}
-            {% if imginfo[0] %}
-                  data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}"
-                  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
-                {% else %}
-                  data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.baseurl | replace: '//', '/' }}"
-                {% endif %}
-          {% endfor %}
+{% for bigimg in page.bigimg %}
+    {% for imginfo in bigimg %}
+        {% if imginfo[0] %}
+<div class="big-img intro-header" style="background-image: url(&quot;{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}&quot;);">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1>The True Cost...X</h1>
+            <hr class="small">
+            <span class="page-subheading">A workshop...X</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span class="img-desc" style="display: inline;">{{ imginfo[1] }}</span>
+</div>
+        {% endif %}
     {% endfor %}
-  ></div>
+{% endfor %}
+
 {% endif %}
 
         {{ content }}
