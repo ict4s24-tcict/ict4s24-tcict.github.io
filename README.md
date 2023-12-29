@@ -1,6 +1,6 @@
 ---
 bigimg:
-    - "/posts/img/2022-04-05-sustaining-security/escraps.jpg" : "Scrap components in a smartphone repair shop. Arnhem, The Netherlands, May 2022."
+    - "img/escraps.jpg" : "Scrap components in a smartphone repair shop. Arnhem, The Netherlands, May 2022."
 ---
 
 
