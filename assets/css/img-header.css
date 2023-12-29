@@ -26,10 +26,12 @@ layout: null
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
+  color: #FFF;
   margin-top: 0;
   font-size: 50px;
 }
 .intro-header .post-heading h1 {
+  color: #FFF;
   margin-top: 0;
   font-size: 35px;
 }
