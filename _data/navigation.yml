@@ -2,14 +2,17 @@
 - title: Home
   url: /
 
-- title: Theme and Scope
-  url: /
+- title: Scope and Objectives
+  url: /index.html#scope-and-objectives
 
 - title: Call for Contributions
-  url: /
+  url: /index.html#call-for-contributions
 
-- title: Participate
-  url: /
+- title: Register and Participate
+  url: /index.html#register-and-participate
+
+- title: workshop-schedule
+  url: /index.html#workshop-schedule
 
 - title: Orgaisers
   url: /index.html#organisers

@@ -8,7 +8,7 @@ bigimg:
 
 
 
-# Workshop Theme and Scope
+# Scope and Objectives
 
 In the past few decades, the word technology has become synonymous to
 digital technology or simply ‘tech’. The tech industry of today generates a
@@ -60,7 +60,7 @@ pervasive within the general public and policy makers, particularly as a
 way to counter climate change [12].
 
 
-# Aims and Objectives
+## Aims and Objectives
 
 We want to bring a group of like-minded and critical colleagues in
 understanding the immediate materiality of semiconductor industry and the
@@ -126,15 +126,29 @@ future technological development.  In this workshop, we will investigate
 these deep connections and the true multidimensional costs of the ICT
 industry.
 
+
+# Register and Participate 
+
+Before you register for "The True Cost of ICT," please consider submitting
+a short abstract to our [Call for
+Contributions](./index.html#call-for-contributions) above.
+
+You can register for  through the [ICT4s 2024
+Website](https://conf.researchr.org/home/ict4s-2024). Further information
+for on-site and online participants will be provided there.
+
+
 # Worshop Schedule
 
-TBD
+**Coming soon!**
+
 
 # Organisers
 
 - Srinjoy Mitra, University of Edinburgh
 - Adrian Friday, Lancaster University
 - Jan Tobias Mühlberg, Universite Libre de Bruxelles
+
 
 # References
 
