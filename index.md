@@ -5,6 +5,8 @@ bigimg:
     - "img/escraps.jpg" : "Scrap components in a smartphone repair shop. Arnhem, The Netherlands, May 2022."
 ---
 
+# Overview
+
 &quot;The True Cost of ICT: From Materiality to Techno-Solutionism&quot; is
 a workshop to be held at [ICT4s
 2024](https://conf.researchr.org/home/ict4s-2024) (24th to 28th of June
