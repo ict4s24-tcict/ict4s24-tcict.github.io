@@ -20,7 +20,7 @@ not even realise. However, it is the semiconductor chips, one of most
 important component in this digital world, that glues together everything
 tech[^1].  The growth of semiconductor technology is unprecedented compared
 to any other industrial sector, from 2000 components in a semiconductor
-chip in ‘70s to 50 billion today[^2]. The resulting impact in our digital
+chip in ‘70s to 50 billion today [[^2]]. The resulting impact in our digital
 life is so enormous that chips are now compared to air, both invisible and
 indispensable[^3]. This growth is driven by a self-imposed innovation
 paradigm, by the power of the ICT sector to manufacture a demand for
@@ -156,55 +156,52 @@ for on-site and online participants will be provided there.
 # References
 
 [^1]: C. Miller, Chip War: The Fight for the World’s Most Critical
-Technology. London: Simon & Schuster UK, 2022.
-[^2]: J. McGregor, “The True Nature Of Moore’s Law – Driving
-Innovation For The Next 50 Years,” Forbes. Accessed: Jul. 01,
+  Technology. London: Simon & Schuster UK, 2022.
+[^2]: J. McGregor, “The True Nature Of Moore’s Law – Driving Innovation For
+  The Next 50 Years,” Forbes. Accessed: Jul. 01,
 2023. [Online]. Available:
-https://www.forbes.com/sites/tiriasresearch/2022/10/07/the-
-true-nature-of-moores-law--driving-innovation-for-the-next-
-50-years/
-[^3]: V. Heffernan, “I Saw the Face of God in a Semiconductor
-Factory,” Wired, 2023. Accessed: Oct. 25, 2023. [Online].
-Available: https://www.wired.com/story/i-saw-the-face-of-
-god-in-a-tsmc-factory/
+      https://www.forbes.com/sites/tiriasresearch/2022/10/07/the-
+true-nature-of-moores-law--driving-innovation-for-the-next- 50-years/
+[^3]: V. Heffernan, “I Saw the Face of God in a Semiconductor Factory,”
+  Wired, 2023. Accessed: Oct. 25, 2023. [Online].  Available:
+https://www.wired.com/story/i-saw-the-face-of- god-in-a-tsmc-factory/
 [^4]: F. Jansen et al., “The Climate Crisis is a Digital Rights Crisis:
-Exploring the Civil-Society Framing of Two Intersecting
-Disasters,” in Computing within Limits, Virtual: LIMITS, Jun.
+  Exploring the Civil-Society Framing of Two Intersecting Disasters,” in
+Computing within Limits, Virtual: LIMITS, Jun.
 2023. doi: 10.21428/bf6fb269.b4704652.
-[^5]: T. Pirson, T. P. Delhaye, A. G. Pip, G. Le Brun, J.-P. Raskin,
-and D. Bol, “The Environmental Footprint of IC Production:
-Review, Analysis, and Lessons From Historical Trends,” IEEE
-Transactions on Semiconductor Manufacturing, vol. 36, no. 1,
-pp. 56–67, 2023, doi: 10.1109/TSM.2022.3228311.
-[^6]: C. Freitag, M. Berners-Lee, K. Widdicks, B. Knowles, G. S.
-Blair, and A. Friday, “The real climate and transformative
-impact of ICT: A critique of estimates, trends, and
-regulations,” PATTER, vol. 2, no. 9, Sep. 2021, doi:
-10.1016/j.patter.2021.100340.
-[^7]: D. N. Pellow, “Electronic Waste and Environmental Justice,”
-in The Oxford Handbook of Digital Media Sociology, D. A.
-Rohlinger and S. Sobieraj, Eds., Oxford University Press,
-2022, p. 0. doi: 10.1093/oxfordhb/9780197510636.013.34.
+[^5]: T. Pirson, T. P. Delhaye, A. G. Pip, G. Le Brun, J.-P. Raskin, and D.
+  Bol, “The Environmental Footprint of IC Production: Review, Analysis, and
+Lessons From Historical Trends,” IEEE Transactions on Semiconductor
+Manufacturing, vol. 36, no. 1, pp. 56–67, 2023, doi:
+10.1109/TSM.2022.3228311.
+[^6]: C. Freitag, M. Berners-Lee, K. Widdicks, B. Knowles, G. S.  Blair,
+  and A. Friday, “The real climate and transformative impact of ICT: A
+critique of estimates, trends, and regulations,” PATTER, vol. 2, no. 9,
+Sep. 2021, doi: 10.1016/j.patter.2021.100340.
+[^7]: D. N. Pellow, “Electronic Waste and Environmental Justice,” in The
+  Oxford Handbook of Digital Media Sociology, D. A.  Rohlinger and S.
+Sobieraj, Eds., Oxford University Press, 2022, p. 0. doi:
+10.1093/oxfordhb/9780197510636.013.34.
 [^8]: S. F. Johnston, Techno-Fixers: Origins and Implications of
-Technological Faith. Montreal Kingston London Chicago:
-McGill-Queen’s University Press, 2020.
-[^9]: H. S. Saetra, Ed., Technology and Sustainable Development:
-The Promise and Pitfalls of Techno-Solutionism, 1st edition.
-Milton Park ; New York: Routledge, 2023.
+  Technological Faith. Montreal Kingston London Chicago: McGill-Queen’s
+University Press, 2020.
+[^9]: H. S. Saetra, Ed., Technology and Sustainable Development: The
+  Promise and Pitfalls of Techno-Solutionism, 1st edition.  Milton Park ;
+New York: Routledge, 2023.
 [^10]: R. Jones, “Marc Andreessen just dropped a ‘Techno-Optimist
-Manifesto’ that sees a world of 50 billion people settling other
-planets,” Fortune. Accessed: Oct. 25, 2023. [Online].
-Available: https://fortune.com/2023/10/16/marc-andreessen-
+  Manifesto’ that sees a world of 50 billion people settling other
+planets,” Fortune. Accessed: Oct. 25, 2023. [Online].  Available:
+https://fortune.com/2023/10/16/marc-andreessen-
 techno-optimist-manifesto-ai-50-billion-people-billionaire-vc/
-[^11]: M. P. Mills, The Cloud Revolution: How the Convergence of
-New Technologies Will Unleash the Next Economic Boom and
-A Roaring 2020s. New York: Encounter Books, 2021.
-[^12]: J. Hickel and G. Kallis, “Is Green Growth Possible?,” New
-Political Economy, vol. 25, no. 4, pp. 469–486, 2020, doi:
+[^11]: M. P. Mills, The Cloud Revolution: How the Convergence of New
+  Technologies Will Unleash the Next Economic Boom and A Roaring 2020s. New
+York: Encounter Books, 2021.
+[^12]: J. Hickel and G. Kallis, “Is Green Growth Possible?,” New Political
+  Economy, vol. 25, no. 4, pp. 469–486, 2020, doi:
 10.1080/13563467.2019.1598964.
-[^13]: H. Sanderson, Volt Rush: The Winners and Losers in the Race
-to Go Green. London: Oneworld Publications, 2022.
+[^13]: H. Sanderson, Volt Rush: The Winners and Losers in the Race to Go
+  Green. London: Oneworld Publications, 2022.
 [^14]: S. Mitra, A. Ganguli Mitra, and S. Sarkar, “On the need for an
-anticolonial perspective in engineering education and
-practice,” Nature Communications, vol. accepted, 2023.
+  anticolonial perspective in engineering education and practice,” Nature
+Communications, vol. accepted, 2023.
 
