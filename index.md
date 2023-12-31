@@ -111,23 +111,6 @@ the focus will be on discussion and collaborative work.
 
 # Call for Contributions
 
-We ask workshop participants to submit short abstracts on topics broadly
-connects the list below:
-
-1. Multi-pronged approach in understanding the global impact of
-   semiconductor industry
-2. Increased material and carbon impact of advanced semiconductor
-   technology nodes
-3. Interdisciplinary dialogue on techno- solutionism and its harm,
-   particularly to Global South
-4. How techno-solutionism and the growth of the semiconductor industry feed
-   into each other
-5. Digital and non-digital approaches and critical perspectives towards
-   addressing techno- solutionism
-6. The amplification of techno-solutionist ideas through (European)
-   industrial policy, regulation, and research and innovation funding.
-
-
 The true environmental impact of ICT cannot only be limited to its material
 (and carbon) cost. The ICT industry of today generates a variety of
 products and services that has proliferated in numbers and determines our
@@ -148,9 +131,24 @@ generation of semiconductor chips). This never-ending cycle of innovation
 not only creates new gadgets and invents newer forms of consumerism but
 feeds into the techno-solutionist narrative. This narrative actively
 impedes all other forms of sustainability actions that doesn’t depend on
-future technological development.  In this workshop, we will investigate
-these deep connections and the true multidimensional costs of the ICT
-industry.
+future technological development.
+
+In this workshop, we will investigate these deep connections and the true
+multidimensional costs of the ICT industry. We ask workshop participants to
+submit short abstracts on topics broadly connects the list below:
+
+1. Multi-pronged approach in understanding the global impact of
+   semiconductor industry
+2. Increased material and carbon impact of advanced semiconductor
+   technology nodes
+3. Interdisciplinary dialogue on techno- solutionism and its harm,
+   particularly to Global South
+4. How techno-solutionism and the growth of the semiconductor industry feed
+   into each other
+5. Digital and non-digital approaches and critical perspectives towards
+   addressing techno- solutionism
+6. The amplification of techno-solutionist ideas through (European)
+   industrial policy, regulation, and research and innovation funding.
 
 
 # Register and Participate 
