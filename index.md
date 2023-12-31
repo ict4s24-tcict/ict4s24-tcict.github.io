@@ -8,9 +8,9 @@ bigimg:
 # Overview
 
 &quot;The True Cost of ICT: From Materiality to Techno-Solutionism&quot; is
-a workshop to be held at [ICT4s
-2024](https://conf.researchr.org/home/ict4s-2024) (24th to 28th of June
-2024) in Stockholm, Sweden.
+a workshop to be held at the [International ICT for Sustainability
+(ICT4S)](https://conf.researchr.org/home/ict4s-2024) conference, 24th to
+28th of June 2024, in Stockholm, Sweden.
 
 During the workshop, we will investigate the long term impacts of
 green-tech solutions, specifically in ICT, which are avidly promoted by

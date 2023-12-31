@@ -15,7 +15,8 @@ A workshop at ICT4S 2024, 24th to 28th of June 2024 in Stockholm, SE.
 
 # To-do List
 
-- contact PC: Will workshops be on-site or hybrid?
+- contact PC: Will workshops be on-site or hybrid? What's the exact day for
+  our workshop?
 - extend team of organisers?
 - Call for Contributions: We want this to be separate from ICT4S
   registration, I think. Do we create some form of submission site? Do we
