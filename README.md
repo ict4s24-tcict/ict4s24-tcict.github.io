@@ -10,6 +10,8 @@ A workshop at ICT4S 2024, 24th to 28th of June 2024 in Stockholm, SE.
 - Repository: git@github.com:ict4s24-tcict/ict4s24-tcict.github.io.git
 - Website: https://ict4s24-tcict.github.io/index.html
 
+- Theme: https://github.com/pages-themes/dinky/tree/master
+
 
 # To-do List
 
