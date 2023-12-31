@@ -3,22 +3,19 @@
   url: /
 
 - title: Scope &amp; Objectives
-  url: /index.html#scope-and-objectives
+  url: "#scope-and-objectives"
 
 - title: Call for Contributions
-  url: /index.html#call-for-contributions
+  url: "#call-for-contributions"
 
 - title: Registration
-  url: /index.html#register-and-participate
+  url: #register-and-participate
 
 - title: Workshop Schedule
-  url: /index.html#workshop-schedule
+  url: #workshop-schedule
 
 - title: Orgaisers
-  url: /index.html#organisers
-
-- title: References
-  url: /index.html#references
+  url: #organisers
 
 
 # Groups currently don't look good in Dinky. Needs a better style
