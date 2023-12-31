@@ -199,9 +199,6 @@ York: Encounter Books, 2021.
 [^12]: J. Hickel and G. Kallis, “Is Green Growth Possible?,” New Political
   Economy, vol. 25, no. 4, pp. 469–486, 2020, doi:
 10.1080/13563467.2019.1598964.
-[^13]: H. Sanderson, Volt Rush: The Winners and Losers in the Race to Go
-  Green. London: Oneworld Publications, 2022.
-[^14]: S. Mitra, A. Ganguli Mitra, and S. Sarkar, “On the need for an
-  anticolonial perspective in engineering education and practice,” Nature
-Communications, vol. accepted, 2023.
+[^13]: H. Sanderson, Volt Rush: The Winners and Losers in the Race to Go Green. London: Oneworld Publications, 2022.
+[^14]: S. Mitra, A. Ganguli Mitra, and S. Sarkar, “On the need for an anticolonial perspective in engineering education and practice,” Nature Communications, vol. accepted, 2023.
 
