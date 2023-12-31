@@ -18,21 +18,21 @@ variety of gadgets, products and services that proliferates in numbers that
 is beyond most of our imaginations and determines our lives in ways we do
 not even realise. However, it is the semiconductor chips, one of most
 important component in this digital world, that glues together everything
-tech[^1].  The growth of semiconductor technology is unprecedented compared
+tech [[^1]].  The growth of semiconductor technology is unprecedented compared
 to any other industrial sector, from 2000 components in a semiconductor
 chip in ‘70s to 50 billion today [[^2]]. The resulting impact in our digital
 life is so enormous that chips are now compared to air, both invisible and
-indispensable[^3]. This growth is driven by a self-imposed innovation
+indispensable [[^3]]. This growth is driven by a self-imposed innovation
 paradigm, by the power of the ICT sector to manufacture a demand for
 processing capacity that can only be satisfied by another generation of
 chips, by a framework of regulations and policy that emphasizes growth and
-competitiveness over sufficiency[^4], and by an unwavering belief in
+competitiveness over sufficiency [[^4]], and by an unwavering belief in
 Moore’s law (i.e., semiconductor chips doubling in capacity every 2 years,
 no matter what purpose they serve). This enormous ‘progress’ came with the
 ubiquity and affluence of our digital lives, but also with significant
 environmental problems (mostly externalised to the Global South) associated
-to water, energy and material consumption, not only during production[^5],
-but also in its usage[^6] and end-of-life as e-Waste related pollution[^7].
+to water, energy and material consumption, not only during production [[^5]],
+but also in its usage [[^6]] and end-of-life as e-Waste related pollution [[^7]].
 
 This unparalleled growth over the last 50 years has created for some an
 apparent ‘technological utopia’ with such limitless capabilities it is
@@ -49,17 +49,17 @@ consumption.
 
 Techno-Solutionism is the deeply ingrained belief that there are
 technological solutions to all problems faced by humanity, even where they
-have originated form our over reliance on technology itself[^8][^9]. This
+have originated form our over reliance on technology itself [[^8], [^9]]. This
 is a narrative that is prevalent in the contemporary world, primarily,
 though not exclusively in the Global North, and has an impact in beliefs
 and critically policies that permeate our world and its governance. Mainly
 through technology, it is argued, we could achieve a sustainable utopia,
-full of economic growth/affluence that does not cause undue harm[^10][^11].
+full of economic growth/affluence that does not cause undue harm [[^10], [^11]].
 While this is an impossible dream, in reality, this optimism actively
 impedes a more decisive, meaningful and immediate action on climate (or
 societal) change.  The techno-solutionist belief has become increasingly
 pervasive within the general public and policy makers, particularly as a
-way to counter climate change[^12].
+way to counter climate change [[^12]].
 
 
 ## Aims and Objectives
@@ -69,7 +69,7 @@ understanding the immediate materiality of semiconductor industry and the
 techno-solutionism it exudes. We will investigate this long term impacts of
 green-tech solutions avidly promoted by technology companies (and supported
 by governments in the Global North) as a matter of climate
-injustice[^13][^14]. We aim to critically assess how the ‘progress’ in this
+injustice [[^13], [^14]]. We aim to critically assess how the ‘progress’ in this
 industry helps
 to drive this optimism and increase our reliance on future green
 technologies (e.g., renewable energy, electric vehicles, carbon capture,
@@ -80,7 +80,7 @@ the beating heart of all of modern technologies, is a key ingredient of our
 reliance on futuristic technological solutions for climate crisis.  Within
 this optimism/solutionism what gets ignored is the externalised cost and
 harm of these ‘green/renewable’ technologies and the new problems they
-bring when scaled up[^13]. We will work toward understanding the drivers
+bring when scaled up [[^13]]. We will work toward understanding the drivers
 and material dependencies of these technologies, their dependence on
 semiconductors and identify a research roadmap toward quantifying these
 effects.
@@ -155,56 +155,18 @@ for on-site and online participants will be provided there.
 
 # References
 
-[^1]: C. Miller, Chip War: The Fight for the World’s Most Critical
-  Technology. London: Simon & Schuster UK, 2022.
-
-[^2]: J. McGregor, “The True Nature Of Moore’s Law – Driving Innovation For
-  The Next 50 Years,” Forbes. Accessed: Jul. 01,
-2023. [Online]. Available:
-      https://www.forbes.com/sites/tiriasresearch/2022/10/07/the-
-true-nature-of-moores-law--driving-innovation-for-the-next- 50-years/
-
-[^3]: V. Heffernan, “I Saw the Face of God in a Semiconductor Factory,”
-  Wired, 2023. Accessed: Oct. 25, 2023. [Online].  Available:
-https://www.wired.com/story/i-saw-the-face-of- god-in-a-tsmc-factory/
-[^4]: F. Jansen et al., “The Climate Crisis is a Digital Rights Crisis:
-  Exploring the Civil-Society Framing of Two Intersecting Disasters,” in
-Computing within Limits, Virtual: LIMITS, Jun.
-2023. doi: 10.21428/bf6fb269.b4704652.
-[^5]: T. Pirson, T. P. Delhaye, A. G. Pip, G. Le Brun, J.-P. Raskin, and D.
-  Bol, “The Environmental Footprint of IC Production: Review, Analysis, and
-Lessons From Historical Trends,” IEEE Transactions on Semiconductor
-Manufacturing, vol. 36, no. 1, pp. 56–67, 2023, doi:
-10.1109/TSM.2022.3228311.
-[^6]: C. Freitag, M. Berners-Lee, K. Widdicks, B. Knowles, G. S.  Blair,
-  and A. Friday, “The real climate and transformative impact of ICT: A
-critique of estimates, trends, and regulations,” PATTER, vol. 2, no. 9,
-Sep. 2021, doi: 10.1016/j.patter.2021.100340.
-[^7]: D. N. Pellow, “Electronic Waste and Environmental Justice,” in The
-  Oxford Handbook of Digital Media Sociology, D. A.  Rohlinger and S.
-Sobieraj, Eds., Oxford University Press, 2022, p. 0. doi:
-10.1093/oxfordhb/9780197510636.013.34.
-[^8]: S. F. Johnston, Techno-Fixers: Origins and Implications of
-  Technological Faith. Montreal Kingston London Chicago: McGill-Queen’s
-University Press, 2020.
-[^9]: H. S. Saetra, Ed., Technology and Sustainable Development: The
-  Promise and Pitfalls of Techno-Solutionism, 1st edition.  Milton Park ;
-New York: Routledge, 2023.
-
-[^10]: R. Jones, “Marc Andreessen just dropped a ‘Techno-Optimist
-  Manifesto’ that sees a world of 50 billion people settling other
-planets,” Fortune. Accessed: Oct. 25, 2023. [Online].  Available:
-https://fortune.com/2023/10/16/marc-andreessen-
-techno-optimist-manifesto-ai-50-billion-people-billionaire-vc/
-
-[^11]: M. P. Mills, The Cloud Revolution: How the Convergence of New
-  Technologies Will Unleash the Next Economic Boom and A Roaring 2020s. New
-York: Encounter Books, 2021.
-
-[^12]: J. Hickel and G. Kallis, “Is Green Growth Possible?,” New Political
-  Economy, vol. 25, no. 4, pp. 469–486, 2020, doi:
-10.1080/13563467.2019.1598964.
-
+[^1]: C. Miller, Chip War: The Fight for the World’s Most Critical Technology. London: Simon & Schuster UK, 2022.
+[^2]: J. McGregor, “The True Nature Of Moore’s Law – Driving Innovation For The Next 50 Years,” Forbes. Accessed: Jul. 01, 2023. [Online]. Available: https://www.forbes.com/sites/tiriasresearch/2022/10/07/the-true-nature-of-moores-law--driving-innovation-for-the-next- 50-years/
+[^3]: V. Heffernan, “I Saw the Face of God in a Semiconductor Factory,” Wired, 2023. Accessed: Oct. 25, 2023. [Online].  Available: https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/
+[^4]: F. Jansen et al., “The Climate Crisis is a Digital Rights Crisis: Exploring the Civil-Society Framing of Two Intersecting Disasters,” in Computing within Limits, Virtual: LIMITS, Jun. 2023. doi: 10.21428/bf6fb269.b4704652.
+[^5]: T. Pirson, T. P. Delhaye, A. G. Pip, G. Le Brun, J.-P. Raskin, and D. Bol, “The Environmental Footprint of IC Production: Review, Analysis, and Lessons From Historical Trends,” IEEE Transactions on Semiconductor Manufacturing, vol. 36, no. 1, pp. 56–67, 2023, doi: 10.1109/TSM.2022.3228311.
+[^6]: C. Freitag, M. Berners-Lee, K. Widdicks, B. Knowles, G. S.  Blair, and A. Friday, “The real climate and transformative impact of ICT: A critique of estimates, trends, and regulations,” PATTER, vol. 2, no. 9, Sep. 2021, doi: 10.1016/j.patter.2021.100340.
+[^7]: D. N. Pellow, “Electronic Waste and Environmental Justice,” in The Oxford Handbook of Digital Media Sociology, D. A.  Rohlinger and S. Sobieraj, Eds., Oxford University Press, 2022, p. 0. doi: 10.1093/oxfordhb/9780197510636.013.34.
+[^8]: S. F. Johnston, Techno-Fixers: Origins and Implications of Technological Faith. Montreal Kingston London Chicago: McGill-Queen’s University Press, 2020.
+[^9]: H. S. Saetra, Ed., Technology and Sustainable Development: The Promise and Pitfalls of Techno-Solutionism, 1st edition. Milton Park; New York: Routledge, 2023.
+[^10]: R. Jones, “Marc Andreessen just dropped a ‘Techno-Optimist Manifesto’ that sees a world of 50 billion people settling other planets,” Fortune. Accessed: Oct. 25, 2023. [Online].  Available: https://fortune.com/2023/10/16/marc-andreessen-techno-optimist-manifesto-ai-50-billion-people-billionaire-vc/
+[^11]: M. P. Mills, The Cloud Revolution: How the Convergence of New Technologies Will Unleash the Next Economic Boom and A Roaring 2020s. New York: Encounter Books, 2021.
+[^12]: J. Hickel and G. Kallis, “Is Green Growth Possible?,” New Political Economy, vol. 25, no. 4, pp. 469–486, 2020, doi: 10.1080/13563467.2019.1598964.
 [^13]: H. Sanderson, Volt Rush: The Winners and Losers in the Race to Go Green. London: Oneworld Publications, 2022.
 [^14]: S. Mitra, A. Ganguli Mitra, and S. Sarkar, “On the need for an anticolonial perspective in engineering education and practice,” Nature Communications, vol. accepted, 2023.
 
