@@ -157,11 +157,13 @@ for on-site and online participants will be provided there.
 
 [^1]: C. Miller, Chip War: The Fight for the World’s Most Critical
   Technology. London: Simon & Schuster UK, 2022.
+
 [^2]: J. McGregor, “The True Nature Of Moore’s Law – Driving Innovation For
   The Next 50 Years,” Forbes. Accessed: Jul. 01,
 2023. [Online]. Available:
       https://www.forbes.com/sites/tiriasresearch/2022/10/07/the-
 true-nature-of-moores-law--driving-innovation-for-the-next- 50-years/
+
 [^3]: V. Heffernan, “I Saw the Face of God in a Semiconductor Factory,”
   Wired, 2023. Accessed: Oct. 25, 2023. [Online].  Available:
 https://www.wired.com/story/i-saw-the-face-of- god-in-a-tsmc-factory/
@@ -188,17 +190,21 @@ University Press, 2020.
 [^9]: H. S. Saetra, Ed., Technology and Sustainable Development: The
   Promise and Pitfalls of Techno-Solutionism, 1st edition.  Milton Park ;
 New York: Routledge, 2023.
+
 [^10]: R. Jones, “Marc Andreessen just dropped a ‘Techno-Optimist
   Manifesto’ that sees a world of 50 billion people settling other
 planets,” Fortune. Accessed: Oct. 25, 2023. [Online].  Available:
 https://fortune.com/2023/10/16/marc-andreessen-
 techno-optimist-manifesto-ai-50-billion-people-billionaire-vc/
+
 [^11]: M. P. Mills, The Cloud Revolution: How the Convergence of New
   Technologies Will Unleash the Next Economic Boom and A Roaring 2020s. New
 York: Encounter Books, 2021.
+
 [^12]: J. Hickel and G. Kallis, “Is Green Growth Possible?,” New Political
   Economy, vol. 25, no. 4, pp. 469–486, 2020, doi:
 10.1080/13563467.2019.1598964.
+
 [^13]: H. Sanderson, Volt Rush: The Winners and Losers in the Race to Go Green. London: Oneworld Publications, 2022.
 [^14]: S. Mitra, A. Ganguli Mitra, and S. Sarkar, “On the need for an anticolonial perspective in engineering education and practice,” Nature Communications, vol. accepted, 2023.
 
