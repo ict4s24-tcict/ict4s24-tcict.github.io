@@ -9,13 +9,13 @@
   url: "#call-for-contributions"
 
 - title: Registration
-  url: #register-and-participate
+  url: "#register-and-participate"
 
 - title: Workshop Schedule
-  url: #workshop-schedule
+  url: "#workshop-schedule"
 
 - title: Orgaisers
-  url: #organisers
+  url: "#organisers"
 
 
 # Groups currently don't look good in Dinky. Needs a better style
