@@ -5,9 +5,24 @@ bigimg:
     - "img/escraps.jpg" : "Scrap components in a smartphone repair shop. Arnhem, The Netherlands, May 2022."
 ---
 
+&quot;The True Cost of ICT: From Materiality to Techno-Solutionism&quot; is
+a workshop to be held at [ICT4s
+2024](https://conf.researchr.org/home/ict4s-2024) (24th to 28th of June
+2024) in Stockholm, Sweden.
 
-[ICT4s 2024](https://conf.researchr.org/home/ict4s-2024)
+During the workshop, we will investigate the long term impacts of
+green-tech solutions, specifically in ICT, which are avidly promoted by
+technology companies and supported by governments in the Global North, as a
+matter of climate injustice. We will work toward understanding the drivers
+and material dependencies of these technologies, their dependence on
+semiconductors and identify a research roadmap toward quantifying these
+effects.
 
+The workshop aims to be an interctive forum where we work towards joint
+position stateents, research outlines, or paper drafts. This collaborative
+work will be fueled by short presentations of the participants (cf. [Call
+for Contributions](#call-for-contributions) below) and invited speakers but
+the focus will be on discussion and collaborative work.
 
 
 # Scope and Objectives
@@ -85,6 +100,12 @@ and material dependencies of these technologies, their dependence on
 semiconductors and identify a research roadmap toward quantifying these
 effects.
 
+The workshop aims to be an interctive forum where we work towards joint
+position stateents, research outlines, or paper drafts. This collaborative
+work will be fueled by short presentations of the participants (cf. [Call
+for Contributions](#call-for-contributions) below) and invited speakers but
+the focus will be on discussion and collaborative work.
+
 
 # Call for Contributions
 
@@ -136,7 +157,7 @@ Before you register for "The True Cost of ICT," please consider submitting
 a short abstract to our [Call for
 Contributions](./index.html#call-for-contributions) above.
 
-You can register for  through the [ICT4s 2024
+You can register for "The True Cost of ICT" through the [ICT4s 2024
 Website](https://conf.researchr.org/home/ict4s-2024). Further information
 for on-site and online participants will be provided there.
 
@@ -153,7 +174,7 @@ for on-site and online participants will be provided there.
 - Jan Tobias Mühlberg, Universite Libre de Bruxelles
 
 
-# References
+# References and Footnotes
 
 [^1]: C. Miller, Chip War: The Fight for the World’s Most Critical Technology. London: Simon & Schuster UK, 2022.
 [^2]: J. McGregor, “The True Nature Of Moore’s Law – Driving Innovation For The Next 50 Years,” Forbes. Accessed: Jul. 01, 2023. [Online]. Available: https://www.forbes.com/sites/tiriasresearch/2022/10/07/the-true-nature-of-moores-law--driving-innovation-for-the-next- 50-years/
