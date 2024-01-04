@@ -157,7 +157,7 @@ Before you register for "The True Cost of ICT," please consider submitting
 a short abstract to our [Call for
 Contributions](./index.html#call-for-contributions) above.
 
-You can register for "The True Cost of ICT" through the [ICT4s 2024
+You can register for "The True Cost of ICT" through the [ICT4S 2024
 Website](https://conf.researchr.org/home/ict4s-2024). Further information
 for on-site and online participants will be provided there.
 
