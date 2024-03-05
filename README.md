@@ -19,7 +19,7 @@ A workshop at ICT4S 2024, 24th to 28th of June 2024 in Stockholm, SE.
   our workshop?
 - extend team of organisers?
 
-- 24th of june!
+- 24th of June!
 
 - Call for Contributions: We want this to be separate from ICT4S
   registration, I think. Do we create some form of submission site? Do we

@@ -130,7 +130,7 @@ production and end-of-life pollution keeps on growing for every new
 generation of semiconductor chips). This never-ending cycle of innovation
 not only creates new gadgets and invents newer forms of consumerism but
 feeds into the techno-solutionist narrative. This narrative actively
-impedes all other forms of sustainability actions that doesn’t depend on
+impedes all other forms of sustainability actions that doesn't depend on
 future technological development.
 
 In this workshop, we will investigate these deep connections and the true
@@ -151,7 +151,8 @@ submit short position statements on topics broadly connects the list below:
    industrial policy, regulation, and research and innovation funding.
 
 Position statements must be written in English and should not exceed one A4
-page in length (excluding references). Submission website: <a
+page in length (excluding references). Please submit your statement in PDF
+format at <a
 href="https://easychair.org/conferences/?conf=tcict24">https://easychair.org/conferences/?conf=tcict24</a>
 
 If you submit a position statement, we will most likely invite you to
@@ -188,7 +189,7 @@ for on-site and online participants will be provided there.
 
 - Srinjoy Mitra, University of Edinburgh
 - Adrian Friday, Lancaster University
-- Jan Tobias Mühlberg, Universite Libre de Bruxelles
+- Jan Tobias M&uuml;hlberg, Universite Libre de Bruxelles
 
 
 # References and Footnotes
