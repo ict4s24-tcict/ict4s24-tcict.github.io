@@ -20,9 +20,9 @@ and material dependencies of these technologies, their dependence on
 semiconductors and identify a research roadmap toward quantifying these
 effects.
 
-The workshop aims to be an interctive forum where we work towards joint
-position stateents, research outlines, or paper drafts. This collaborative
-work will be fueled by short presentations of the participants (cf. [Call
+The workshop aims to be an interactive forum where we work towards joint
+position statements, research outlines, or paper drafts. This collaborative
+work will be fuelled by short presentations of the participants (cf. [Call
 for Contributions](#call-for-contributions) below) and invited speakers but
 the focus will be on discussion and collaborative work.
 
@@ -42,7 +42,7 @@ life is so enormous that chips are now compared to air, both invisible and
 indispensable [[^3]]. This growth is driven by a self-imposed innovation
 paradigm, by the power of the ICT sector to manufacture a demand for
 processing capacity that can only be satisfied by another generation of
-chips, by a framework of regulations and policy that emphasizes growth and
+chips, by a framework of regulations and policy that emphasises growth and
 competitiveness over sufficiency [[^4]], and by an unwavering belief in
 Moore’s law (i.e., semiconductor chips doubling in capacity every 2 years,
 no matter what purpose they serve). This enormous ‘progress’ came with the
@@ -102,9 +102,9 @@ and material dependencies of these technologies, their dependence on
 semiconductors and identify a research roadmap toward quantifying these
 effects.
 
-The workshop aims to be an interctive forum where we work towards joint
-position stateents, research outlines, or paper drafts. This collaborative
-work will be fueled by short presentations of the participants (cf. [Call
+The workshop aims to be an interactive forum where we work towards joint
+position statements, research outlines, or paper drafts. This collaborative
+work will be fuelled by short presentations of the participants (cf. [Call
 for Contributions](#call-for-contributions) below) and invited speakers but
 the focus will be on discussion and collaborative work.
 
@@ -160,7 +160,7 @@ the workshop.
 
 Submitting a position statement is not mandatory for attending the
 workshop. However, even if you do not intend to submit a full position
-stattement, please consider submitting a few lines about yourself, why you
+statement, please consider submitting a few lines about yourself, why you
 are attending, and what you would like to discuss. You can do this in the
 "abstract" field under the EasyChair link above.
 
@@ -170,7 +170,7 @@ are attending, and what you would like to discuss. You can do this in the
 Before you register for "The True Cost of ICT," please consider submitting
 a position statement to our [Call for
 Contributions](./index.html#call-for-contributions) above. Even if you do
-not intend to submit a full position stattement, please consider submitting
+not intend to submit a full position statement, please consider submitting
 a few lines about yourself, why you are attending, and what you would like
 to discuss.
 
@@ -179,7 +179,7 @@ Website](https://conf.researchr.org/home/ict4s-2024). Further information
 for on-site and online participants will be provided there.
 
 
-# Worshop Schedule
+# Workshop Schedule
 
 **Coming soon!**
 

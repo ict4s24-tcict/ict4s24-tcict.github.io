@@ -29,7 +29,7 @@ abstracts on the website prior to the workshop?
     - ask for talk abstract
     - ask for what you want to get out of this process
     - no reviews
-- send "Call for Contributons" to mailing lists and colleagues
+- send "Call for Contributions" to mailing lists and colleagues
 - identify and contact invited speakers
 
 
