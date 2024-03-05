@@ -135,7 +135,7 @@ future technological development.
 
 In this workshop, we will investigate these deep connections and the true
 multidimensional costs of the ICT industry. We ask workshop participants to
-submit short abstracts on topics broadly connects the list below:
+submit short position statements on topics broadly connects the list below:
 
 1. Multi-pronged approach in understanding the global impact of
    semiconductor industry
@@ -150,12 +150,29 @@ submit short abstracts on topics broadly connects the list below:
 6. The amplification of techno-solutionist ideas through (European)
    industrial policy, regulation, and research and innovation funding.
 
+Position statements must be written in English and should not exceed one A4
+page in length (excluding references). Submission website: <a
+href="https://easychair.org/conferences/?conf=tcict24">https://easychair.org/conferences/?conf=tcict24</a>
+
+If you submit a position statement, we will most likely invite you to
+present your perspectives in a short presentation (about 15 minutes) during
+the workshop.
+
+Submitting a position statement is not mandatory for attending the
+workshop. However, even if you do not intend to submit a full position
+stattement, please consider submitting a few lines about yourself, why you
+are attending, and what you would like to discuss. You can do this in the
+"abstract" field under the EasyChair link above.
+
 
 # Register and Participate 
 
 Before you register for "The True Cost of ICT," please consider submitting
-a short abstract to our [Call for
-Contributions](./index.html#call-for-contributions) above.
+a position statement to our [Call for
+Contributions](./index.html#call-for-contributions) above. Even if you do
+not intend to submit a full position stattement, please consider submitting
+a few lines about yourself, why you are attending, and what you would like
+to discuss.
 
 You can register for "The True Cost of ICT" through the [ICT4S 2024
 Website](https://conf.researchr.org/home/ict4s-2024). Further information
