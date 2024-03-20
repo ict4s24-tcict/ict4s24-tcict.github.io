@@ -111,31 +111,9 @@ the focus will be on discussion and collaborative work.
 
 # Call for Contributions
 
-The true environmental impact of ICT cannot only be limited to its material
-(and carbon) cost. The ICT industry of today generates a variety of
-products and services that has proliferated in numbers and determines our
-lives in ways we do not even realise. But it also creates a myth of
-techno-solutionism, that it is only through technology we can solve most
-problems in the world, including climate change.  The tremendous progress
-made in digital/semiconductor technologies (that glues together all things
-‘tech’) in the last 5 decades is a prime driver of techno-solutionism in
-our collective imagination. The growth of semiconductor technology is
-unprecedented compared to any other industrial sector. The resulting impact
-on our digital life is so enormous that semiconductor chips are now
-compared to air, both invisible and indispensable. Driven by a self-imposed
-innovation paradigm, commonly known as Moore’s law, this enormous
-‘progress’ came with significant environmental problems mostly externalised
-to the Global South (water, energy and material consumption during
-production and end-of-life pollution keeps on growing for every new
-generation of semiconductor chips). This never-ending cycle of innovation
-not only creates new gadgets and invents newer forms of consumerism but
-feeds into the techno-solutionist narrative. This narrative actively
-impedes all other forms of sustainability actions that doesn't depend on
-future technological development.
-
-In this workshop, we will investigate these deep connections and the true
-multidimensional costs of the ICT industry. We ask workshop participants to
-submit short position statements on topics broadly connects the list below:
+In the TCICT workshop, we will investigate the true multidimensional costs of
+the ICT industry. We ask workshop participants to submit short position
+statements on topics broadly connects the list below:
 
 1. Multi-pronged approach in understanding the global impact of
    semiconductor industry
@@ -151,9 +129,9 @@ submit short position statements on topics broadly connects the list below:
    industrial policy, regulation, and research and innovation funding.
 
 Position statements must be written in English and should not exceed one A4
-page in length (excluding references). Please submit your statement in PDF
-format at <a
-href="https://easychair.org/conferences/?conf=tcict24">https://easychair.org/conferences/?conf=tcict24</a>
+page in length (excluding references). <b>Please submit your statement in PDF
+format by 2024-05-24 23:59 AoE at <a
+href="https://easychair.org/conferences/?conf=tcict24">https://easychair.org/conferences/?conf=tcict24</a></b>
 
 If you submit a position statement, we will most likely invite you to
 present your perspectives in a short presentation (about 15 minutes) during
