@@ -165,10 +165,11 @@ for on-site and online participants will be provided there.
 
 # Organisers
 
-- Srinjoy Mitra, University of Edinburgh
-- Adrian Friday, Lancaster University
-- Jan Tobias M&uuml;hlberg, Universite Libre de Bruxelles
+- Srinjoy Mitra, University of Edinburgh, [Srinjoy.Mitra@ed.ac.uk](mailto:Srinjoy.Mitra@ed.ac.uk)
+- Adrian Friday, Lancaster University, [a.friday@lancaster.ac.uk](mailto:a.friday@lancaster.ac.uk)
+- Jan Tobias M&uuml;hlberg, Universite Libre de Bruxelles, [jan.tobias.muehlberg@ulb.be](mailto:jan.tobias.muehlberg@ulb.be)
 
+Please contact us if you have questions regarding the theme, abstract submission, or participation in this workshop.
 
 # References and Footnotes
 
