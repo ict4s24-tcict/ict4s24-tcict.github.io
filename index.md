@@ -2,7 +2,7 @@
 title: "The True Cost of ICT"
 subtitle: "From Materiality to Techno-Solutionism"
 bigimg:
-    - "img/escraps.jpg" : "Scrap components in a smartphone repair shop. Arnhem, The Netherlands, May 2022."
+    - "img/escraps-crop.jpg" : "Scrap components in a smartphone repair shop. Arnhem, The Netherlands, May 2022."
 ---
 
 # Overview
