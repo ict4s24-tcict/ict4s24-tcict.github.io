@@ -160,7 +160,22 @@ for on-site and online participants will be provided there.
 
 # Workshop Schedule
 
-**Coming soon!**
+| Time (CEST) | Activity    |
+| ----------- | ----------- |
+| 09:00       | Opening     |
+| 09:15       | Invited talk by [Nina Djukanović](https://www.geog.ox.ac.uk/graduate/research/ndjukanovic.html) |
+| 10:00       | "From Bottom-Up to Top-Down: Rethinking Approaches to Assessing ICT’s Mineral Dependencies" (Thibault Simon, Sophie Cerf, Adrien Luxey-Bitri, Romain Rouvoy, Clément Quinton and Catherine Truffert) |
+| 10:15       | "Digitalisation as threat to resilience: what if there are no more semiconductors?" (Ludmila Courtillat-Piazza, Sophie Quinton and Clément Marquet) |
+| 10:30       | Coffee      |
+| 11:00       | Workshop    |
+| 12:30       | Lunch       |
+| 13:30       | Invited talk by [Zuha Siddiqui](https://zuhasiddiqui.com/) |
+| 14:15       | "Estimating the world ICT footprint trajectory over the 2010-2019 decade" (Francis Charpentie and Joris Blain) |
+| 14:30       | Workshop    |
+| 15:30       | Coffee      |
+| 16:00       | Workshop    |
+| 17:30       | Closing     |
+
 
 
 # Organisers
